@@ -11,12 +11,12 @@
 		1A3B15631BDADE43006F3C0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A3B15621BDADE43006F3C0C /* Assets.xcassets */; };
 		1A4E9B021BDAE6BD0003AC07 /* BackgroundAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4E9B011BDAE6BD0003AC07 /* BackgroundAnimationViewController.swift */; };
 		1A4E9B041BDAE70A0003AC07 /* CustomKolodaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4E9B031BDAE70A0003AC07 /* CustomKolodaView.swift */; };
-		1A4E9B061BDAE7270003AC07 /* CustomOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4E9B051BDAE7270003AC07 /* CustomOverlayView.swift */; };
-		1A4E9B0E1BDAE76F0003AC07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A4E9B071BDAE76F0003AC07 /* Main.storyboard */; };
-		1A4E9B0F1BDAE76F0003AC07 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A4E9B091BDAE76F0003AC07 /* LaunchScreen.xib */; };
-		1A4E9B101BDAE76F0003AC07 /* OverlayView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A4E9B0B1BDAE76F0003AC07 /* OverlayView.xib */; };
-		1A4E9B111BDAE76F0003AC07 /* CustomOverlayView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A4E9B0D1BDAE76F0003AC07 /* CustomOverlayView.xib */; };
-		1A4E9B131BDAE80C0003AC07 /* ExampleOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4E9B121BDAE80C0003AC07 /* ExampleOverlayView.swift */; };
+		1A7DF7D01BDF2E1D00535064 /* ExampleOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7DF7CF1BDF2E1C00535064 /* ExampleOverlayView.swift */; };
+		1A7DF7D21BDF2ED100535064 /* CustomOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7DF7D11BDF2ED100535064 /* CustomOverlayView.swift */; };
+		1A7DF7D41BDF2EF100535064 /* CustomOverlayView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A7DF7D31BDF2EF100535064 /* CustomOverlayView.xib */; };
+		1A7DF7D71BDF2F1E00535064 /* OverlayView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A7DF7D51BDF2F1E00535064 /* OverlayView.xib */; };
+		1A7DF7DC1BDF2F3400535064 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A7DF7D81BDF2F3400535064 /* LaunchScreen.xib */; };
+		1A7DF7DD1BDF2F3400535064 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A7DF7DA1BDF2F3400535064 /* Main.storyboard */; };
 		E59A9C0272901BD2DA65F032 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA4CD26C50B898B190E1AAD5 /* Pods.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,12 +27,12 @@
 		1A3B15671BDADE43006F3C0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A4E9B011BDAE6BD0003AC07 /* BackgroundAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundAnimationViewController.swift; sourceTree = "<group>"; };
 		1A4E9B031BDAE70A0003AC07 /* CustomKolodaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomKolodaView.swift; sourceTree = "<group>"; };
-		1A4E9B051BDAE7270003AC07 /* CustomOverlayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomOverlayView.swift; sourceTree = "<group>"; };
-		1A4E9B081BDAE76F0003AC07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = ../../SexyJelly0/Example/Koloda/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1A4E9B0A1BDAE76F0003AC07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = ../../SexyJelly0/Example/Koloda/Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		1A4E9B0C1BDAE76F0003AC07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = ../../SexyJelly0/Example/Koloda/Base.lproj/OverlayView.xib; sourceTree = "<group>"; };
-		1A4E9B0D1BDAE76F0003AC07 /* CustomOverlayView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CustomOverlayView.xib; path = ../../SexyJelly0/Example/Koloda/CustomOverlayView.xib; sourceTree = "<group>"; };
-		1A4E9B121BDAE80C0003AC07 /* ExampleOverlayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExampleOverlayView.swift; path = ../../SexyJelly0/Example/Koloda/ExampleOverlayView.swift; sourceTree = "<group>"; };
+		1A7DF7CF1BDF2E1C00535064 /* ExampleOverlayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExampleOverlayView.swift; sourceTree = "<group>"; };
+		1A7DF7D11BDF2ED100535064 /* CustomOverlayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomOverlayView.swift; sourceTree = "<group>"; };
+		1A7DF7D31BDF2EF100535064 /* CustomOverlayView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomOverlayView.xib; sourceTree = "<group>"; };
+		1A7DF7D61BDF2F1E00535064 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/OverlayView.xib; sourceTree = "<group>"; };
+		1A7DF7D91BDF2F3400535064 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		1A7DF7DB1BDF2F3400535064 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		83CFAA8855E5876DD3475124 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		AD81488A6F2FE397BC2F6C7B /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		DA4CD26C50B898B190E1AAD5 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,13 +74,13 @@
 				1A3B155B1BDADE43006F3C0C /* AppDelegate.swift */,
 				1A4E9B011BDAE6BD0003AC07 /* BackgroundAnimationViewController.swift */,
 				1A4E9B031BDAE70A0003AC07 /* CustomKolodaView.swift */,
-				1A4E9B121BDAE80C0003AC07 /* ExampleOverlayView.swift */,
-				1A4E9B051BDAE7270003AC07 /* CustomOverlayView.swift */,
+				1A7DF7CF1BDF2E1C00535064 /* ExampleOverlayView.swift */,
+				1A7DF7D11BDF2ED100535064 /* CustomOverlayView.swift */,
 				1A3B15621BDADE43006F3C0C /* Assets.xcassets */,
-				1A4E9B071BDAE76F0003AC07 /* Main.storyboard */,
-				1A4E9B091BDAE76F0003AC07 /* LaunchScreen.xib */,
-				1A4E9B0B1BDAE76F0003AC07 /* OverlayView.xib */,
-				1A4E9B0D1BDAE76F0003AC07 /* CustomOverlayView.xib */,
+				1A7DF7D31BDF2EF100535064 /* CustomOverlayView.xib */,
+				1A7DF7D81BDF2F3400535064 /* LaunchScreen.xib */,
+				1A7DF7DA1BDF2F3400535064 /* Main.storyboard */,
+				1A7DF7D51BDF2F1E00535064 /* OverlayView.xib */,
 				1A3B15671BDADE43006F3C0C /* Info.plist */,
 			);
 			path = SexyJelly;
@@ -164,11 +164,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A7DF7DC1BDF2F3400535064 /* LaunchScreen.xib in Resources */,
+				1A7DF7DD1BDF2F3400535064 /* Main.storyboard in Resources */,
 				1A3B15631BDADE43006F3C0C /* Assets.xcassets in Resources */,
-				1A4E9B101BDAE76F0003AC07 /* OverlayView.xib in Resources */,
-				1A4E9B111BDAE76F0003AC07 /* CustomOverlayView.xib in Resources */,
-				1A4E9B0F1BDAE76F0003AC07 /* LaunchScreen.xib in Resources */,
-				1A4E9B0E1BDAE76F0003AC07 /* Main.storyboard in Resources */,
+				1A7DF7D41BDF2EF100535064 /* CustomOverlayView.xib in Resources */,
+				1A7DF7D71BDF2F1E00535064 /* OverlayView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,8 +229,8 @@
 			files = (
 				1A4E9B021BDAE6BD0003AC07 /* BackgroundAnimationViewController.swift in Sources */,
 				1A4E9B041BDAE70A0003AC07 /* CustomKolodaView.swift in Sources */,
-				1A4E9B131BDAE80C0003AC07 /* ExampleOverlayView.swift in Sources */,
-				1A4E9B061BDAE7270003AC07 /* CustomOverlayView.swift in Sources */,
+				1A7DF7D01BDF2E1D00535064 /* ExampleOverlayView.swift in Sources */,
+				1A7DF7D21BDF2ED100535064 /* CustomOverlayView.swift in Sources */,
 				1A3B155C1BDADE43006F3C0C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -238,28 +238,28 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		1A4E9B071BDAE76F0003AC07 /* Main.storyboard */ = {
+		1A7DF7D51BDF2F1E00535064 /* OverlayView.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1A4E9B081BDAE76F0003AC07 /* Base */,
+				1A7DF7D61BDF2F1E00535064 /* Base */,
 			);
-			name = Main.storyboard;
+			name = OverlayView.xib;
 			sourceTree = "<group>";
 		};
-		1A4E9B091BDAE76F0003AC07 /* LaunchScreen.xib */ = {
+		1A7DF7D81BDF2F3400535064 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1A4E9B0A1BDAE76F0003AC07 /* Base */,
+				1A7DF7D91BDF2F3400535064 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
-		1A4E9B0B1BDAE76F0003AC07 /* OverlayView.xib */ = {
+		1A7DF7DA1BDF2F3400535064 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1A4E9B0C1BDAE76F0003AC07 /* Base */,
+				1A7DF7DB1BDF2F3400535064 /* Base */,
 			);
-			name = OverlayView.xib;
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
